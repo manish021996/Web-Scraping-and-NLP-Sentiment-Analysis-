@@ -13,7 +13,7 @@ Perform textual analysis on each extracted article text and compute variables in
 Utilize Python programming for data analysis.
 
 
-## Variables:
+## Output Variables:
 
 * Perform sentiment analysis on financial texts using the provided algorithm.
 * Clean the text using stop words lists to exclude irrelevant words.
