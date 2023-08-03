@@ -1,4 +1,4 @@
-# Web-Scraping-and-NLP-Sentiment-Analysis-
+# Web-Scraping-and-NLP-Text-Analysis-
 
 ## Objective:
 * The objective of this project is to extract textual data articles from given URLs and perform text analysis to compute various variables. The project also involves sentimental analysis to determine the sentiment of financial texts.
